@@ -1,0 +1,8 @@
+version: 1.0.{build}
+configuration: Release
+platform: Any CPU
+build:
+  verbosity: minimal
+artifacts:
+- path: Lockscreen Layout\bin\Release
+  name: LockscreenLayout
